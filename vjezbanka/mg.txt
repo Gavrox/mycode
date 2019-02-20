@@ -1,0 +1,17 @@
+Inflammatory cytokine gene polymorphism profiles in Turkish patients with ulcerative colitis
+İlhami Gök1, Fahri Uçar2, Orhan Ozgur3
+1Department of Bioengineering, Faculty of Engineering & Architecture, Kafkas University  Kars,  2Departments of Medical Biology & Genetics, School of Medicine, Akdeniz University, Antalya, 3Divisions of Gastroenterology, School of Medicine, Karadeniz Technical University, Trabzon; Turkey
+ABSTRACT
+Aim To investigate IL-1α, IL-1β, IL-1R , IL-4RA, TGF-β, TNF-α and IFN-γ, genes polymorphism in Turkish patients with ucerative colitis (UC). 
+Methods An analysis was carried out at Trabzon Karadeniz Technical University
+Medicine Faculty Gastroenterology polyclinics between March 2005 and May 2011 on 51 patient with UC (cases) and 100 healthy individuals (controls). PCR-SSP and cytokine gene panel (Helderberg kits) based techniques for analysis of gene polymorphisms were used.
+Results Changes in allelic frequencies of each of the investigated eight cytokine genes polymorphisms in patient with ulcerative colitis were found. Among the allelic genes analyzed here, the highest statistically significant change was observed in the position TNF-α -308 G/A (339.7%). The following increases were observed in  IL-IR mspa T/C variation (179.4%), IFN-γ 5644A/T variation (77.4%), and in IL-1β -511T/C  SNPs (35.9% ). In other analyzed genes, allelic changes were found to be decreasing for TGF- β codon10C / T (-71.9%), IL4RA + 1902G / A (-47.3 %), and   for IL- 1α -889T / C (-37.7%). The lowest negative change (-25.9%) was observed in the allele frequency in IL- 1β 3962T / C (p<0.000). In addition,  there were changes in genotypic frequencies investigated  seven gene polymophic site and  only one of cytokine gene IL-1β 3962TT/TC/CC was not changed. 
+Conclusion Genes polymorphism is not itself the only determining factor for clinical diagnoses. However, it can be used in the clinical diagnosis of UC in order to determine the low level or high level variations in cytokine gene polymorphisms. 
+Key words:  colitis, ulcerative, cytokines, genetic polymorphisms, PCR-SSP, Turkey
+Original submission:
+28 October 2014;
+Revised submission:
+18 December 2014;
+Accepted:
+05 January 2015.
+Med Glas (Zenica) 2015; 12(1):33-39

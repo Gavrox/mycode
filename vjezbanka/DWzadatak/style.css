@@ -1,0 +1,165 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Old Standard TT', serif;
+}
+
+#wraper {
+    background-color: white;
+    margin: auto;
+    width: 80%;
+}
+
+#header {
+    height: 75px;
+    background-color: #41B2F1;
+    position: relative;
+
+}
+
+#logo {
+    padding: 10px;
+}
+
+.animation {
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: 10;
+
+    animation: move 7s infinite ease-out;
+}
+
+@keyframes move {
+    0% {
+        left: 10%;
+        top: 10px;
+    }
+
+    50% {
+        left: 80%;
+        top: 10px;
+        width: 200px;
+
+    }
+
+    100% {
+        left: 80%;
+        top: 10px;
+        width: 200px;
+    }
+
+}
+
+.animation2 {
+    font-size: 10px;
+    position: absolute;
+    top: 35px;
+    left: 0%;
+    animation: move2 7s infinite ease-in-out;
+}
+
+@keyframes move2 {
+    0% {
+        left: 87%;
+        top: 35px;
+    }
+
+    50% {
+        left: 0%;
+        top: 35px;
+        font-size: 25px;
+
+    }
+
+    100% {
+        left: 0%;
+        top: 35px;
+        font-size: 25px;
+
+    }
+}
+
+#nav {
+    background-color: #0084B4;
+    height: 40px;
+}
+
+.menu {
+    margin: 0;
+    padding: 10px;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    -webkit-transition: all 0s ease 0s;
+    -o-transition: all 0s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+
+.menu li {
+    display: inline;
+    text-decoration: none;
+}
+
+#aside {
+    background-color: gainsboro;
+    width: 36%;
+    padding: 2%;
+    float: left;
+}
+
+#main {
+    width: 56%;
+    padding: 2%;
+    float: left;
+}
+
+#middle {
+    overflow: hidden;
+}
+
+.footer {
+    background-color: #0084B4;
+    color: white;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: right;
+}
+
+h2 {
+    background-color: #0084B4;
+    padding: 0;
+    margin-bottom: 0px;
+}
+
+.sidemenu {
+
+    font-size: 12px;
+    font-style: italic;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a:hover {
+    font-size: 24px;
+    color: rgba(137, 229, 53, 1);
+}
+
+.labela {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Old Standard TT', serif;
+}
